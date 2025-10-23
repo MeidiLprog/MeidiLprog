@@ -20,4 +20,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: tonpseudo   # <-- remplace par TON pseudo
+          USERNAME: MeidiLprog   
