@@ -1,1 +1,23 @@
 
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # mise à jour quotidienne
+  workflow_dispatch:      # te permet de le lancer à la main
+
+permissions:
+  contents: write         # autorise le token à pousser les images générées
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Pas besoin de token perso : on utilise le GITHUB_TOKEN automatique
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: tonpseudo   # <-- remplace par TON pseudo
