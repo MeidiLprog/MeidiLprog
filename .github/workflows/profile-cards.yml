@@ -1,23 +1,28 @@
-
 name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # mise à jour quotidienne
-  workflow_dispatch:      # te permet de le lancer à la main
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write         # autorise le token à pousser les images générées
+  contents: write  
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true   # garde le token pour le push
 
-      # Pas besoin de token perso : on utilise le GITHUB_TOKEN automatique
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: MeidiLprog   
+          USERNAME: MeidiLprog
