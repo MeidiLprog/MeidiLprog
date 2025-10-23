@@ -1,4 +1,5 @@
 <h1 align="center">I'm Meidi Lefki</h1>
+<h4 align="center">M1 Machine Learning & Data Science | Python, Deep Learning, MLOps</h4>
 <h3 align="center">An ambitious young ML/DS student with lofty ambitions, aiming to become a future researcher in AI</h3>
 
 ---
