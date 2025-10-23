@@ -1,5 +1,5 @@
 <h1 align="center">I'm Meidi Lefki</h1>
-<h3 align="center">An ambitious young AI engineer with lofty ambitions, aiming to become a future researcher in AI</h3>
+<h3 align="center">An ambitious young machine learning/datascience student with lofty ambitions, aiming to become a future researcher in AI</h3>
 
 ---
 
