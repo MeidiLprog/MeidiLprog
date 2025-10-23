@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**MeidiLprog/MeidiLprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Mon activité GitHub
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MeidiLprog/MeidiLprog/main/profile-summary-card-output/slateorange/0-profile-details.svg" height="160" />
+  <img src="https://raw.githubusercontent.com/MeidiLprog/MeidiLprog/main/profile-summary-card-output/slateorange/3-stats.svg" height="160" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MeidiLprog/MeidiLprog/main/profile-summary-card-output/slateorange/1-repos-per-language.svg" height="160" />
+  <img src="https://raw.githubusercontent.com/MeidiLprog/MeidiLprog/main/profile-summary-card-output/slateorange/2-most-commit-language.svg" height="160" />
+</p>
+
+<!-- Si tu as aussi le radar/activité, décommente la ligne suivante -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/MeidiLprog/MeidiLprog/main/profile-summary-card-output/slateorange/5-repository-activity.svg" height="160" />
+</p> -->
+
