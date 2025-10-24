@@ -18,9 +18,8 @@
 
 ### 💬 About me
 - 💻 M1 Machine Learning & Data Science student  
-- 🧠 Interested in **AI research, Deep Learning, and Data Analysis**  
+- 🧠 Interested in **AI research, Deep Learning, and Agents**  
 - 💬 Ask me about **Python, R, C++**  
-- 📫 Reach me at **[m.lef3105@gmail.com](mailto:m.lef3105@gmail.com)**  
 - 🌍 Based in **Paris, France**  
 
 ---
