@@ -25,18 +25,20 @@
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/lefkimeidi" target="blank">
+  <a href="https://linkedin.com/in/lefkimeidi" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/meidilefki" target="blank">
+  <a href="https://kaggle.com/meidilefki" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="mailto:m.lef3105@gmail.com" target="blank">
+  <a href="mailto:m.lef3105@gmail.com" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+  </a>
+  <a href="https://huggingface.co/Meidilefki" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Hugging Face" height="30" width="40" />
   </a>
 </p>
 
----
 
 ### 🧠 Languages and Tools
 <p align="center">
