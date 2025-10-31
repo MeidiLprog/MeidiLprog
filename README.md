@@ -35,9 +35,10 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
   </a>
   <a href="https://huggingface.co/Meidilefki" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Hugging Face" height="30" width="40" />
+    <img align="center" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" height="30" width="40" />
   </a>
 </p>
+
 
 
 ### 🧠 Languages and Tools
