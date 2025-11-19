@@ -1,6 +1,9 @@
 <h1 align="center">I'm Meidi Lefki</h1>
 <h4 align="center">M1 Machine Learning & Data Science | Python, Deep Learning, MLOps</h4>
-<h3 align="center">An ambitious young ML/DS student with lofty ambitions, aiming to become a future researcher in AI</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=1000&lines=An+ambitious+young+ML%2FDS+student+with+lofty+ambitions%2C+aiming+to+become+a+future+researcher+in+AI" alt="Typing Animation" />
+</h3>
+
 
 ---
 
