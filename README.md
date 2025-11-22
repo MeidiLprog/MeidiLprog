@@ -23,7 +23,7 @@
 ### 💬 About me
 - 💻 M1 Machine Learning & Data Science student  
 - 🧠 Interested in **AI research, Deep Learning, and Agents**  
-- 💬 Ask me about **Python, R, C++**  
+- 💬 Ask me about **Python, R, C++, Java**  
 
 ---
 
