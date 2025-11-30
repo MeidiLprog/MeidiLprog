@@ -3,7 +3,7 @@
 <h4 align="center">Python • Deep Learning • MLOps • NLP • Reinforcement Learning</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+student+focused+on+AI+research.;Exploring+Deep+Learning,+NLP,+and+MLOps. ;Aspiring+to+do+AI+Research" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+student+focused+on+AI+research.;Exploring+Deep+Learning,+NLP,+and+MLOps.;Aspiring+AI+Researcher." alt="Typing Animation" />
 </p>
 
 
