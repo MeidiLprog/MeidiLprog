@@ -1,5 +1,5 @@
-<h1 align="center">Meidi Lefki</h1>
-<h3 align="center">M1 Machine Learning & Data Science @ Université Paris Cité</h3>
+<h1 align="center">I'm Meidi Lefki</h1>
+<h3 align="center">M1 Machine Learning & Data Science @ Paris Cité University</h3>
 <h4 align="center">Python • Deep Learning • MLOps • NLP • Reinforcement Learning</h4>
 
 <p align="center">
