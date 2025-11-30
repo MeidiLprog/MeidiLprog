@@ -1,9 +1,10 @@
-<h1 align="center">I'm Meidi Lefki</h1>
-<h4 align="center">M1 Machine Learning & Data Science | Python, Deep Learning, MLOps</h4>
-<h3 align="center">
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=900&lines=An+ambitious+ML%2FDS+student+aspiring+to+pursue+AI+research." alt="Typing Animation" />
-</h3>
+<h1 align="center">Meidi Lefki</h1>
+<h3 align="center">M1 Machine Learning & Data Science @ Université Paris Cité</h3>
+<h4 align="center">Python • Deep Learning • MLOps • NLP • Reinforcement Learning</h4>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+student+focused+on+AI+research.;Exploring+Deep+Learning,+NLP,+and+MLOps." alt="Typing Animation" />
+</p>
 
 
 
