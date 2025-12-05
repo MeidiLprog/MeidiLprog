@@ -1,6 +1,6 @@
 <h1 align="center">I'm Meidi Lefki</h1>
 <h3 align="center">M1 Machine Learning & Data Science @ Paris Cité University</h3>
-<h4 align="center">Python • Deep Learning • MLOps • NLP • Reinforcement Learning</h4>
+<h4 align="center">Python • Deep Learning • MLOps • NLP • Reinforcement Learning • Agents</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+student+focused+on+AI+research.;Exploring+Deep+Learning,+NLP,+and+MLOps.;Aspiring+AI+Researcher." alt="Typing Animation" />
