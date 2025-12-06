@@ -138,7 +138,107 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=00C7FF&width=450&lines=🧠+AI+Research;+⚙️+Deep+Learning;+☁️+MLOps;+💡+Data+Science;" alt="Typing animation 2" />
 </p>
 
+------
+
+<h2 align="center">⚡ Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Living,+breathing+AI+stack+🚀;Deep+Learning,+MLOps,+and+Research+Tools+🧠" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/MeidiLprog/MeidiLprog/blob/main/assets/techwave.gif" width="500" alt="Animated divider"/>
+</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon-animated.svg" width="65" height="65" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/r-lang-icon-animated.svg" width="65" height="65" alt="R"/>
+      <br>R
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon-animated.svg" width="65" height="65" alt="C++"/>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon-animated.svg" width="65" height="65" alt="Java"/>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/pytorch-icon-animated.svg" width="65" height="65" alt="PyTorch"/>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/tensorflow-icon-animated.svg" width="65" height="65" alt="TensorFlow"/>
+      <br>TensorFlow
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55" alt="Scikit-Learn"/>
+      <br>Scikit-Learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/opencv-icon-animated.svg" width="65" height="65" alt="OpenCV"/>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon-animated.svg" width="65" height="65" alt="MySQL"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/postgresql-icon-animated.svg" width="65" height="65" alt="PostgreSQL"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sqlite-icon-animated.svg" width="65" height="65" alt="SQLite"/>
+      <br>SQLite
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/git-icon-animated.svg" width="65" height="65" alt="Git"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/bash-icon-animated.svg" width="65" height="65" alt="Bash"/>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon-animated.svg" width="65" height="65" alt="Docker"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/linux-icon-animated.svg" width="65" height="65" alt="Linux"/>
+      <br>Linux
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=🧠+AI+Research;+⚙️+Deep+Learning;+☁️+MLOps;+💡+Data+Science;+🚀+Pythonic+Engineering" alt="Typing animation 2" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/MeidiLprog/MeidiLprog/blob/main/assets/glowbar.gif" width="400" alt="Animated glow divider"/>
+</p>
+
 ---
+
 
 
 ---
