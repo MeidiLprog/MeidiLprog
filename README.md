@@ -20,24 +20,27 @@
 
 ---
 
-### 💬 About Me
-- 💻 M1 Machine Learning & Data Science student  
-- 🧠 Interested in **AI research, Deep Learning, and Agents**  
-- 💬 Ask me about **Python, R, C++, Java**
+## 💬 About Me
+💻 M1 Machine Learning & Data Science student  
+🧠 Interested in **AI research, Deep Learning, and Agents**  
+💬 Ask me about **Python, R, C++, Java**
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/lefkimeidi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:m.lef3105@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://kaggle.com/meidilefki" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://huggingface.co/Meidilefki" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" height="30" width="40" />
   </a>
@@ -45,11 +48,7 @@
 
 ---
 
----
-
----
-
-### 🧠 Languages and Tools
+## 🧠 Languages and Tools
 <p align="center">
   <!-- Programming -->
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
@@ -77,12 +76,9 @@
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
-
-
-
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeidiLprog&theme=slateorange&v=3" alt="GitHub Profile Summary" height="170"/>
 </p>
@@ -94,7 +90,7 @@
 
 ---
 
-### 🚀 Goals
+## 🚀 Goals
 - 📚 Publish research in Machine Learning or Computer Vision  
 - 🧠 Contribute to open-source AI libraries  
 - 💼 Join an innovative R&D team working on Deep Learning applications  
