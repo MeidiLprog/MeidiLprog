@@ -49,195 +49,34 @@
 
 ---
 
-<h2 align="center">🧠 Languages & Tools</h2>
-
+### 🧠 Languages and Tools
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Tools+I+use+every+day+🛠️;Machine+Learning,+MLOps,+and+AI+Research+🚀" alt="Typing Animation" />
+  <!-- Programming -->
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.r-project.org/"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+
+  <!-- Machine Learning -->
+  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
+  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
+
+  <!-- Databases -->
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
+
+  <!-- DevOps & Tools -->
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=r" width="60" height="60" alt="R" />
-      <br>R
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55" alt="Scikit-Learn" />
-      <br>Scikit-Learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="60" height="60" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opencv" width="60" height="60" alt="OpenCV" />
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="60" height="60" alt="SQLite" />
-      <br>SQLite
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="Bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=00C7FF&width=450&lines=🧠+AI+Research;+⚙️+Deep+Learning;+☁️+MLOps;+💡+Data+Science;" alt="Typing animation 2" />
-</p>
-
-------
-
-<h2 align="center">⚡ Languages & Tools</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Living,+breathing+AI+stack+🚀;Deep+Learning,+MLOps,+and+Research+Tools+🧠" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/MeidiLprog/MeidiLprog/blob/main/assets/techwave.gif" width="500" alt="Animated divider"/>
-</p>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon-animated.svg" width="65" height="65" alt="Python"/>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/r-lang-icon-animated.svg" width="65" height="65" alt="R"/>
-      <br>R
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon-animated.svg" width="65" height="65" alt="C++"/>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon-animated.svg" width="65" height="65" alt="Java"/>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/pytorch-icon-animated.svg" width="65" height="65" alt="PyTorch"/>
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/tensorflow-icon-animated.svg" width="65" height="65" alt="TensorFlow"/>
-      <br>TensorFlow
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55" alt="Scikit-Learn"/>
-      <br>Scikit-Learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/opencv-icon-animated.svg" width="65" height="65" alt="OpenCV"/>
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon-animated.svg" width="65" height="65" alt="MySQL"/>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/postgresql-icon-animated.svg" width="65" height="65" alt="PostgreSQL"/>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sqlite-icon-animated.svg" width="65" height="65" alt="SQLite"/>
-      <br>SQLite
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/git-icon-animated.svg" width="65" height="65" alt="Git"/>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/bash-icon-animated.svg" width="65" height="65" alt="Bash"/>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon-animated.svg" width="65" height="65" alt="Docker"/>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/linux-icon-animated.svg" width="65" height="65" alt="Linux"/>
-      <br>Linux
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=🧠+AI+Research;+⚙️+Deep+Learning;+☁️+MLOps;+💡+Data+Science;+🚀+Pythonic+Engineering" alt="Typing animation 2" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/MeidiLprog/MeidiLprog/blob/main/assets/glowbar.gif" width="400" alt="Animated glow divider"/>
-</p>
-
----
 
 
 
