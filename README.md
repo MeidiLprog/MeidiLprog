@@ -28,23 +28,30 @@
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://linkedin.com/in/lefkimeidi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:m.lef3105@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://kaggle.com/meidilefki" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white&labelColor=101010" alt="Kaggle"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://huggingface.co/Meidilefki" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" height="30" width="40" />
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=black&labelColor=101010" alt="Hugging Face"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Let's+Connect+and+Collaborate+🚀;Reach+out+anytime+🧠;I+love+talking+AI,+ML,+and+research+🤖" alt="Typing Animation"/>
+</p>
+
+---
 
 ---
 
