@@ -47,6 +47,8 @@
 
 ---
 
+---
+
 <h2 align="center">🧠 Languages & Tools</h2>
 
 <p align="center">
@@ -58,71 +60,73 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/r-lang-icon.svg" alt="R icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=r" width="60" height="60" alt="R" />
       <br>R
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="PyTorch icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60" alt="PyTorch" />
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="TensorFlow icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" alt="TensorFlow" />
       <br>TensorFlow
     </td>
   </tr>
+
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="65" height="65" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55" alt="Scikit-Learn" />
       <br>Scikit-Learn
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=pandas" width="60" height="60" alt="Pandas" />
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=opencv" width="60" height="60" alt="OpenCV" />
       <br>OpenCV
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=sqlite" width="60" height="60" alt="SQLite" />
       <br>SQLite
     </td>
   </tr>
+
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="Bash" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="Bash" />
       <br>Bash
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
       <br>Linux
     </td>
   </tr>
@@ -131,7 +135,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/MeidiLprog/MeidiLprog/blob/main/techs.gif" width="600" alt="Tech animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=00C7FF&width=450&lines=🧠+AI+Research;+⚙️+Deep+Learning;+☁️+MLOps;+💡+Data+Science;" alt="Typing animation 2" />
 </p>
 
 ---
