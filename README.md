@@ -1,4 +1,4 @@
-<h1 align="center">I'm Meidi Lefki</h1>
+<h1 align="center">I'm Meidi Lefki how's it going ?</h1>
 <h3 align="center">M1 Machine Learning & Data Science @ Paris Cité University</h3>
 <h4 align="center">Python • Deep Learning • MLOps • NLP • Reinforcement Learning • Agents</h4>
 
