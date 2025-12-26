@@ -96,7 +96,7 @@
 - 📚 Publish research in Machine Learning and Ai  
 - 🧠 Contribute to open-source AI libraries and work on impactful projects for the greater good  
 - 💼 Join an innovative R&D team working on Deep Learning/ MultiAgents' applications  
-- 📚 Become fluent in arabic/mandaring chinese/Kabyle
+- 📚 Become fluent in arabic(currently learning)/mandaring chinese/Kabyle
 ---
 
 <p align="center"><i>⭐ Don’t forget to star repositories you find interesting!</i></p>
