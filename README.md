@@ -22,7 +22,7 @@
 
 ## 💬 About Me
 💻 M1 Machine Learning & Data Science student  
-🧠 Interested in **AI research, Networking, Cryptography, Deep Learning, Information Theorie, Signal Processing**  
+🧠 Interested in **AI research, Networking, Cryptography, Deep Learning, Information Theory, Signal Processing,Localization**  
 💬 Ask me about **Python, R, C++, Java**
 
 ---
