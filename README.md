@@ -3,7 +3,7 @@
 <h4 align="center">Python • Deep Learning • Signal Processing • Information Theory • Reinforcement Learning</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+student+focused+on+AI+research.;Exploring+Deep+Learning,+Signal+Processing,+and+MLOps.;Aspiring+AI+Researcher." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+student+focused+on+AI+research.;Exploring+Deep+Learning,+Signal+Processing,+and+Telecom.;Aspiring+Telecom+Researcher." alt="Typing Animation" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ## 💬 About Me
 💻 M1 Machine Learning & Data Science student  
 🧠 Interested in **AI research, Networking, Cryptography, Deep Learning, Information Theory, Signal Processing,Localization**  
-💬 Ask me about **Python, R, C++, Java**
+💬 Ask me about **Python, C, C++, Java**
 
 ---
 
