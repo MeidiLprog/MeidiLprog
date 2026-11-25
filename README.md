@@ -4,9 +4,7 @@
 
 <!--Header visual-->
 
-<div>
-  <img align="right" width="40%" src="./profile.png">
-</div>
+
 
 <!--Header Name-->
 
